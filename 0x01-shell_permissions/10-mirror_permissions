@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod stat -c '%a' hello
+chmod stat --refernce=olleh hello
